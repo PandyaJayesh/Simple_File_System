@@ -101,7 +101,8 @@ The **Simple File System (SFS)** is a minimalistic file system implemented in C.
 
     ```bash
     ./sfs
-3. Execute Commands using the CLI as shown in the [Sample Commands]() section.
+3. Execute Commands using the CLI as shown in the [Sample Commands](#sample-commands)
+ section.
 
 ## Challenges and Learnings
 * Understanding and implementing the inode-block model for file and directory management.
@@ -114,7 +115,7 @@ The **Simple File System (SFS)** is a minimalistic file system implemented in C.
 
 * **Guided by**: Prof. Anish Mathuria, DA-IICT
 * **Developer**: Jayesh Pandya
-* **Contact**: pandyajayesh7848@gmail.com
+* **Contact**: - 💼 LinkedIn: [jayesh pandya](https://www.linkedin.com/in/jayesh-pandya-ab334b28a)
 
 
 Feel free to modify the content or let me know if you'd like to add more details!
